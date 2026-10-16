@@ -30,6 +30,18 @@ that's why の後ろに置けるのは、ふつうの平叙文だけ。命令文
 
 また、that's why は「結果がすでに話題になっていて、その理由を明かす」ときに一番しっくりくる。だから、聞き手にとって結果も理由も新情報であるような、ささいな出来事の流れには重すぎる。
 
+目的の文を that's why で置き換えると、どう意味が変わるかを具体的に示す。
+
+- I left early so I could catch the train.（電車に間に合うように、早く出た）
+- I left early. That's why I caught the train.（早く出た。だから電車に間に合った）
+
+元の文は、出発した時点の狙いだけを言っていて、実際に間に合ったかどうかは言っていない。that's why の文は、「実際に間に合った」という結果を断言している。後ろに「でも乗り遅れた」を足すと違いがはっきりする。
+
+- I left early so I could catch the train, but I still missed it.（矛盾しない：目的を言っただけ）
+- I left early. That's why I caught the train. But I still missed it.（矛盾する：間に合ったと言っている）
+
+なお、that's why の文では could が使えない。that's why の後ろには「実際に起きたこと」が来るが、could は「できる可能性があった」としか言わず、実際に乗れたという事実を表現できないため。過去に実際に起きたことなので、caught という過去形にする必要がある。I left early. That's why I could catch the train. は不自然。詳しくは [could は「成功した事実」を言わない](could.md) を参照。
+
 目的の so (that) については [so の三つの使い方](so.md) を参照。
 
 ## 3. so が不自然なパターン
