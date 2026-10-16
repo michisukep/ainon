@@ -19,7 +19,7 @@ so は理由から結果へさらっとつなぐ。that's why は、直前の内
 - I left early so I could catch the train.（間に合うように早く出た：目的）
 - I left early. That's why I caught the train.（早く出たから間に合った：結果）
 
-このとき that's why I could catch the train とすると不自然になる理由は [could は「実現」を言わない](could.md) を参照。
+このとき that's why I could catch the train とすると不自然になる理由は [could は「成功した事実」を言わない](could.md) を参照。
 
 ## 書き言葉の注意
 

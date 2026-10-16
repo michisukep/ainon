@@ -27,7 +27,7 @@ but で打ち消すと違いがはっきりする。
 - I left early so I could catch the train, but I still missed it.（矛盾しない：目的を言っただけ）
 - I left early, so I caught the train, but I still missed it.（矛盾する：間に合ったと言っている）
 
-目的の so と could の関係は [could は「実現」を言わない](could.md) を参照。
+目的の so と could の関係は [could は「成功した事実」を言わない](could.md) を参照。
 
 ## 語源のつながり
 
