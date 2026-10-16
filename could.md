@@ -64,12 +64,12 @@ could が「実現を言わない」という性質は、目的の so (that) と
 
 「間に合うように」と言っている時点では、電車に乗れるかはまだ分からない。つまり目的の節は「まだ実現していない可能性」を語っていて、could の性質とぴったり合う。
 
-逆に、同じ could を「結果」の文に入れると不自然になる。
+逆に、結果の so（だから）の後ろに could を置くと、結果の文としては成り立たない。
 
-- I left early. That's why I was able to catch the train.（自然）
-- I left early. That's why I could catch the train.（不自然）
+- I left early, so I was able to catch the train.（自然：だから間に合った）
+- I left early, so I could catch the train.（結果としては不自然。「間に合うように」という目的の文に読まれる）
 
-that's why の後ろには「実際に起きた結果」が来るのに、could はそれを言わないから。so の三つの用法は [so の三つの使い方](so.md)、that's why の使い方は [that's why と so の違い](thats-why.md) を参照。
+結果の so の後ろには「実際に起きたこと」が来るのに、could はそれを言わないから。could が出てきた時点で、聞き手は目的の文として読み直してしまう。so の三つの用法は [so の三つの使い方](so.md) を参照。
 
 ## 5. 知覚動詞はなぜ一回きりでも could が使えるのか
 
