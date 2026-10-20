@@ -10,3 +10,4 @@
   - [第 1 回　「来る」という表現を英語にする](come-1.md)：will come / is coming / comes の使い分け
   - [第 2 回　「来た」という表現を英語にする](come-2.md)：came / is here / has come の使い分け、「来ている」との違い
   - [第 3 回　「来れば」「来たら」を英語にする](come-3.md)：if か when か、現在形か過去完了か、「ば」と「たら」の関係
+  - [第 4 回　「来ない」を英語にする](come-4.md)：isn't coming と hasn't come yet の分け方、誘いの「来ない？」
