@@ -17,3 +17,4 @@
   - [第 7 回　総括：なぜ「来る」と come はずれるのか](come-7.md)：到達動詞と移動動詞、「た」の完了性（要約）、時制の仕組みの比較
 - 「覚える・忘れる」を極める
   - [第 1 回　「覚える」を英語にする](oboeru-1.md)：memorize / learn / remember の使い分け、命令形の remember は「覚える」、「覚えている」の二つの意味
+  - [第 2 回　「覚えている」を英語にする](oboeru-2.md)：remember と know、can't remember、remembered は「思い出した」、You remembered!
