@@ -21,3 +21,4 @@
   - [第 3 回　「思い出す」を英語にする](oboeru-3.md)：try to remember、きっかけを主語にする remind、I remember! は現在形、remember の二面性
   - [第 4 回　「忘れる」「忘れた」を英語にする](oboeru-4.md)：forgot / have forgotten / forget、置き忘れは leave、Forget it の二面性
   - [第 5 回　「忘れている」「忘れていた」を英語にする](oboeru-5.md)：has forgotten と is forgetting、I forgot! と I remember! の非対称、I'd forgotten how…
+  - [第 6 回　「忘れない」「忘れていない」を英語にする](oboeru-6.md)：I'll never forget、Don't forget / Remember、before I forget、can't forget と unforgettable、I haven't forgotten
