@@ -23,3 +23,4 @@
   - [第 5 回　「忘れている」「忘れていた」を英語にする](oboeru-5.md)：has forgotten と is forgetting、I forgot! と I remember! の非対称、I'd forgotten how…
   - [第 6 回　「忘れない」「忘れていない」を英語にする](oboeru-6.md)：I'll never forget、Don't forget / Remember、before I forget、can't forget と unforgettable、I haven't forgotten
   - [第 7 回　remember to と remember -ing、forget to と forget -ing](oboeru-7.md)：「〜るのを」＝ to、「〜たのを」＝ -ing、「覚えている」が前向きの形を持たない非対称
+  - [第 8 回　総括：なぜ「覚える・忘れる」と remember / forget は対応しないのか](oboeru-8.md)：多対多の対応表、五つの理由、日英双方向の誤用一覧、「来る」との対比
