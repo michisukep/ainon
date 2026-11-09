@@ -16,6 +16,7 @@
   - [第 6 回　名詞修飾の「来る」「来た」](come-6.md)：関係節の時制、来た人＝who is here、来たことがある＝has been here、シリーズのまとめ
   - [第 7 回　総括：なぜ「来る」と come はずれるのか](come-7.md)：到達動詞と移動動詞、「た」の完了性（要約）、時制の仕組みの比較
 - 「覚える・忘れる」を極める
+  - [第 0 回　ネイティブは記憶をどうイメージしているか](oboeru-0.md)：把持と距離（英語）、有無と深さ（日本語）、おぼゆの歴史
   - [第 1 回　「覚える」を英語にする](oboeru-1.md)：memorize / learn / remember の使い分け、命令形の remember は「覚える」、「覚えている」の二つの意味
   - [第 2 回　「覚えている」を英語にする](oboeru-2.md)：remember と know、can't remember、remembered は「思い出した」、You remembered!
   - [第 3 回　「思い出す」を英語にする](oboeru-3.md)：try to remember、きっかけを主語にする remind、I remember! は現在形、remember の二面性
@@ -23,4 +24,4 @@
   - [第 5 回　「忘れている」「忘れていた」を英語にする](oboeru-5.md)：has forgotten と is forgetting、I forgot! と I remember! の非対称、I'd forgotten how…
   - [第 6 回　「忘れない」「忘れていない」を英語にする](oboeru-6.md)：I'll never forget、Don't forget / Remember、before I forget、can't forget と unforgettable、I haven't forgotten
   - [第 7 回　remember to と remember -ing、forget to と forget -ing](oboeru-7.md)：「〜るのを」＝ to、「〜たのを」＝ -ing、「覚えている」が前向きの形を持たない非対称
-  - [第 8 回　総括：なぜ「覚える・忘れる」と remember / forget は対応しないのか](oboeru-8.md)：多対多の対応表、五つの理由、日英双方向の誤用一覧、記憶の比喩（把持と距離／有無と深さ）、「来る」との対比
+  - [第 8 回　総括：なぜ「覚える・忘れる」と remember / forget は対応しないのか](oboeru-8.md)：多対多の対応表、五つの理由、日英双方向の誤用一覧、記憶の比喩への接続、「来る」との対比
